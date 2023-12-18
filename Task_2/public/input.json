@@ -1,0 +1,11 @@
+{
+    "data": [
+        {"name": "Honn", "email": "john2@mail.com"},
+        {"name": "John", "email": "john2@mail.com"},
+        {"name": "John", "email": "john1@mail.com"},
+        {"name": "Jane", "email": "jane@mail.com"},
+        {"name": "Anna", "email": "anna@mail.com"},
+        {"name": "Dmytro", "email": "dmytro@mail.com"}
+        
+    ]
+}

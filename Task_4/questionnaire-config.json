@@ -1,0 +1,16 @@
+{
+    "questions": [
+        {
+            "What is your marital status?": ["Single", "Married"]
+        },
+        {
+            "Are you planning on getting married next year?": ["Yes", "No"]
+        },
+        {
+            "How long have you been married?": ["Less than a year", "More than a year"]
+        },
+        {
+            "Have you celebrated your one year anniversary?": ["Yes", "No"]
+        }
+    ]
+}

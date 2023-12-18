@@ -1,0 +1,84 @@
+{
+  "units": [
+    {
+      "name": "Millimeter",
+      "abbreviation": "mm",
+      "conversionToMeter": 0.001
+    },
+    {
+      "name": "Centimeter",
+      "abbreviation": "cm",
+      "conversionToMeter": 0.01
+    },
+    {
+      "name": "Meter",
+      "abbreviation": "m",
+      "conversionToMeter": 1
+    },
+    {
+      "name": "Kilometer",
+      "abbreviation": "km",
+      "conversionToMeter": 1000
+    },
+    {
+      "name": "Inch",
+      "abbreviation": "in",
+      "conversionToMeter": 0.0254
+    },
+    {
+      "name": "Foot",
+      "abbreviation": "ft",
+      "conversionToMeter": 0.3048
+    },
+    {
+      "name": "Yard",
+      "abbreviation": "yd",
+      "conversionToMeter": 0.9144
+    },
+    {
+      "name": "Mile (UK)",
+      "abbreviation": "mileUK",
+      "conversionToMeter": 1609.3
+    },
+    {
+      "name": "Decemeter",
+      "abbreviation": "Dm",
+      "conversionToMeter": 0.1
+    },
+    {
+      "name": "Pico",
+      "abbreviation": "Pc",
+      "conversionToMeter": 100000
+    },
+    {
+      "name": "Gecto",
+      "abbreviation": "Gc",
+      "conversionToMeter": 1000000
+    },
+    {
+      "name": "Test",
+      "abbreviation": "Ts",
+      "conversionToMeter": 10000
+    },
+    {
+      "name": "Test2",
+      "abbreviation": "T2",
+      "conversionToMeter": 300
+    },
+    {
+      "name": "Test 3",
+      "abbreviation": "T3",
+      "conversionToMeter": 500
+    },
+    {
+      "name": "Test 4",
+      "abbreviation": "T4",
+      "conversionToMeter": 600
+    },
+    {
+      "name": "Test 5",
+      "abbreviation": "T5",
+      "conversionToMeter": 800
+    }
+  ]
+}
