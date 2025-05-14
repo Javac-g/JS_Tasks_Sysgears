@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "What is your marital status?": ["Single", "Married"]
+            "What is your marital status?": ["habdjob", "Married"]
         },
         {
             "Are you planning on getting married next year?": ["Yes", "No"]
